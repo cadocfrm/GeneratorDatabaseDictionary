@@ -1,0 +1,2 @@
+# GeneratorDatabaseDictionary
+Generator Database Dictionary
