@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratorDatabaseDictionary", "GeneratorDatabaseDictionary\GeneratorDatabaseDictionary.csproj", "{4E77B9A0-B433-40D4-A32D-4223CA7CBB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseModel", "DatabaseModel\DatabaseModel.csproj", "{4F20D930-E8DB-4FA6-B282-1179620A5E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E77B9A0-B433-40D4-A32D-4223CA7CBB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E77B9A0-B433-40D4-A32D-4223CA7CBB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E77B9A0-B433-40D4-A32D-4223CA7CBB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E77B9A0-B433-40D4-A32D-4223CA7CBB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F20D930-E8DB-4FA6-B282-1179620A5E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F20D930-E8DB-4FA6-B282-1179620A5E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F20D930-E8DB-4FA6-B282-1179620A5E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F20D930-E8DB-4FA6-B282-1179620A5E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
